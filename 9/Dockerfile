@@ -4,3 +4,4 @@ ADD oraclelinux-9-arm64v8-rootfs.tar.xz /
 
 # overwrite this with 'CMD []' in a dependent Dockerfile
 CMD ["/bin/bash"]
+# empty comment for commit diff
